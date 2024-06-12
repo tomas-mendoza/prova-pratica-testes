@@ -1,4 +1,4 @@
-//Prova Prátca - Parte 2
+//Prova Prática - Parte 2
 
 //Questão 6
 function soma(a, b) {
